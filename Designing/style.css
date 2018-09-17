@@ -1,0 +1,19 @@
+body{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("images/body.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+  
+}
+#opace{
+	opacity:0.7;
+
+}
+.custom{
+	text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
